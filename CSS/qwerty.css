@@ -1,0 +1,39 @@
+body {
+    background-color: cornflowerblue;
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1
+.dropdown {
+    position: relative;
+}
+
+
+/*Styling the dropdown button*/
+
+.dropbtn {
+    background-color: palegreen;
+    color:aliceblue;
+    padding: 16px;
+    font-size: 16px;
+    border: whitesmoke 16px;
+    cursor: pointer;
+}
+
+/*Dropdown content*/
+.dropdown-content  {
+    color:black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: none;
+}
+
+/*Show content on hover*/
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+
