@@ -1,3 +1,10 @@
+
+.container{
+    display: flex;
+    flex-direction: column;
+}
+
+
 body{
     background-color: salmon;
     text-align: left;
@@ -6,7 +13,13 @@ body{
 }
 
 h1{
-    font-size: xxx-large;
+    font-size: 200px;
     font-style: italic;
-    text-align: left;
+    text-align: top-left;
+    margin: 0%;
+    color:aliceblue;
+    background-image: url("../Bilder/New Yooooooork.jpeg");
+    background-position-y: -150px;
+    background-size: cover;
+    height: 80vh;
 }
