@@ -46,8 +46,7 @@ p{
     margin: 0%;
 }
 
-
-link[rel="video"] {
+video{
     height: 315px;
     width: 560px; 
 }
