@@ -47,7 +47,7 @@ p{
 }
 
 
-embed{
+link[rel="video"] {
     height: 315px;
     width: 560px; 
 }
