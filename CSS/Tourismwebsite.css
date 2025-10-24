@@ -25,9 +25,6 @@
   cursor: pointer;
 }
 
-.btn:hover {
-  background-color: darksalmon;
-}
 
 body{
     background-color: palegoldenrod;
